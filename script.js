@@ -19,4 +19,4 @@ li.appendChild(btn);
 document.getElementById("taskList").appendChild(li);
 
 input.value="";
-}
+}"// Local storage function updated" 
